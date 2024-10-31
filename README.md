@@ -8,6 +8,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TechxyBro&theme=dark)](https://git.io/streak-stats)
 
-![TechxyBro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TechxyBro&theme=default&hide_border=false)
+![TechxyBro's Stats](https://github-readme-stats.vercel.app/api?username=TechxyBro&theme=default&show_icons=true&hide_border=false&count_private=true)
 
 ![TechxyBro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechxyBro&theme=default&show_icons=true&hide_border=false&layout=compact)
