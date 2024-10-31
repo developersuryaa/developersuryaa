@@ -6,4 +6,5 @@
 ## 📟 - Tecnologies
 ![image](https://github.com/user-attachments/assets/afe5cf4e-234e-4cb7-b767-5d0cd0326551) ![image](https://github.com/user-attachments/assets/02aa0faf-d4d8-481c-a18b-2406f9c8e694) ![image](https://github.com/user-attachments/assets/5d64113d-3d70-4cf1-a677-93afa4ce4f42)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=TechxyBro)](https://git.io/streak-stats)
 
