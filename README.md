@@ -1,4 +1,5 @@
-![image](https://yt3.googleusercontent.com/-7LSPF-UHkUD5MoHx3clcRHqg_G6mLvvo7CZT5XMxF8mYOz6E4GcZUPD9kqY7WmrCblsFWtHbw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![Uploading image.png…]()
+
 
 ## ⭐ - Introduction
 > Hey, my name is Techxy. I'm a full stack developer who started 3 years ago creating plugins and mods for Minecraft using PHP. Currently, I'm more focused on making cool projects like frameworks and useful templates for the community. If you want to support me with a sponsorship, I would be really happy. Help me out, please! :D
