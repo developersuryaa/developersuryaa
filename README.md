@@ -1,4 +1,4 @@
-![My Image](https://developersuryaa.github.io/IMAGE.jpg)
+![My Image](https://i.imgur.com/XXCiLaS.jpeg)
 
 
 # Hi there! 👋 I'm Surya Prakash Azad
