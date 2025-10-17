@@ -1,3 +1,6 @@
+![My Image](https://developersuryaa.github.io/IMAGE.jpg)
+
+
 # Hi there! 👋 I'm Surya Prakash Azad
 
 **Welcome to my GitHub profile!**  
