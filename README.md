@@ -18,6 +18,8 @@
 <a href="https://instagram.com/developersuryaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developersuryaa" height="30" width="40" /></a>
 <a href="https://youtube.com/developersuryaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="developersuryaa" height="30" width="40" /></a>
 </p>
+<a href="https://discord.gg/DPWRY6N9Sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="developersuryaa" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
