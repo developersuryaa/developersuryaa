@@ -53,6 +53,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developersuryaa&show_icons=true&locale=en" alt="developersuryaa" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developersuryaa&label=Profile views&color=0e75b6&style=flat" alt="developersuryaa" /> </p>
+
+
 **:book: विद्या ददाति विनियम् ।
 🙇 विनयात् याति पात्रताम् ।।**
 
