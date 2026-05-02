@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="650" height="100" viewBox="0 0 650 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="85" viewBox="0 0 650 85">
   <rect width="100%" height="100%" fill="transparent" />
   <style>
     .ascii {
       font-family: 'Courier New', monospace;
-      font-size: 14px;
+      font-size: 13px; /* Size thoda chhota kiya taki space kam le */
       white-space: pre;
       fill: #24292e;
     }
@@ -11,10 +11,10 @@
       .ascii { fill: #ffffff; }
     }
   </style>
-  <text x="0" y="15" class="ascii">░██████╗██████╗░  ░█████╗░███████╗░█████╗░██████╗░</text>
-  <text x="0" y="30" class="ascii">██╔════╝██╔══██╗  ██╔══██╗╚════██║██╔══██╗██╔══██╗</text>
-  <text x="0" y="45" class="ascii">╚█████╗░██████╔╝  ███████║░░███╔═╝███████║██║░░██║</text>
-  <text x="0" y="60" class="ascii">░╚═══██╗██╔═══╝░  ██╔══██║██╔══╝░░██╔══██║██║░░██║</text>
-  <text x="0" y="75" class="ascii">██████╔╝██║░░░░░  ██║░░██║███████╗██║░░██║██████╔╝</text>
-  <text x="0" y="90" class="ascii">╚═════╝░╚═╝░░░░░  ╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░</text>
+  <text x="0" y="12" class="ascii">░██████╗██████╗░  ░█████╗░███████╗░█████╗░██████╗░</text>
+  <text x="0" y="25" class="ascii">██╔════╝██╔══██╗  ██╔══██╗╚════██║██╔══██╗██╔══██╗</text>
+  <text x="0" y="38" class="ascii">╚█████╗░██████╔╝  ███████║░░███╔═╝███████║██║░░██║</text>
+  <text x="0" y="51" class="ascii">░╚═══██╗██╔═══╝░  ██╔══██║██╔══╝░░██╔══██║██║░░██║</text>
+  <text x="0" y="64" class="ascii">██████╔╝██║░░░░░  ██║░░██║███████╗██║░░██║██████╔╝</text>
+  <text x="0" y="77" class="ascii">╚═════╝░╚═╝░░░░░  ╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░</text>
 </svg>
