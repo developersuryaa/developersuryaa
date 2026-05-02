@@ -1,6 +1,4 @@
-<p align="center" style="margin-bottom: 0px; padding-bottom: 0px;">
-  <img src="header.svg">
-</p>
+![Header](header.svg)
 ### A passionate web deveoper from Nepal 🇳🇵
 
 - 🔭 I'm currently working on **[CodeBikalpa](https://developersuryaa.github.io/CodeBikalpa/)**
