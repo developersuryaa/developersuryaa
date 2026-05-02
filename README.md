@@ -1,6 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=SP%20AZAD&fontSize=80" />
-</p>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .text { fill: white; }
+    }
+    @media (prefers-color-scheme: light) {
+      .text { fill: black; }
+    }
+  </style>
+  <text class="text" x="10" y="50">SP AZAD</text>
+</svg>
+
 
 ### A passionate web deveoper from Nepal 🇳🇵
 
