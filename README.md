@@ -1,4 +1,4 @@
-![Header](spazad.svg)
+![Header](header.svg)
 
 ### A passionate web deveoper from Nepal 🇳🇵
 
