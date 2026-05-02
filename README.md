@@ -1,15 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @media (prefers-color-scheme: dark) {
-      .text { fill: white; }
-    }
-    @media (prefers-color-scheme: light) {
-      .text { fill: black; }
-    }
-  </style>
-  <text class="text" x="10" y="50">SP AZAD</text>
-</svg>
-
+![Header](spazad.svg)
 
 ### A passionate web deveoper from Nepal 🇳🇵
 
