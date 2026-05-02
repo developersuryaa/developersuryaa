@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0px; padding-bottom: 0px;">
-  <img src="header.svg" style="display: block;">
+  <img src="header.svg">
 </p>
 ### A passionate web deveoper from Nepal 🇳🇵
 
