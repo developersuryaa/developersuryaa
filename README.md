@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=SP%20AZAD&fontSize=80)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=SP%20AZAD&fontSize=80" />
+</p>
 
 ### A passionate web deveoper from Nepal 🇳🇵
 
