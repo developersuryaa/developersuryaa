@@ -1,9 +1,9 @@
 ![Header](header.svg)
-### A passionate web deveoper from Nepal 🇳🇵
+### A passionate web developer from Nepal 🇳🇵
 
 - 🔭 I'm currently working on **[CodeBikalpa](https://developersuryaa.github.io/CodeBikalpa/)**
   
-- 🌱 I'm currently learning **NodeJS and MongoDB**
+- 🌱 I'm currently learning **JavaScript*
 
 - 👯 I'm looking to collaborate on **open source projects**
 
