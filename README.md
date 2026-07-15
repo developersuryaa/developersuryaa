@@ -1,5 +1,5 @@
 ![Header](header.svg)
-### A passionate web developer from Nepal 🇳🇵
+### Web Developer
 
 - 🔭 I'm currently working on **[CodeBikalpa](https://developersuryaa.github.io/CodeBikalpa/)**
   
