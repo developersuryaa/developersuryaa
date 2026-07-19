@@ -28,7 +28,7 @@ Junior web developer with a strong foundation in frontend technologies. I believ
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=developersuryaa&show_icons=true&theme=radical)
+![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=developersuryaa&show_icons=true&theme=radical](https://github-stats-extended.vercel.app/api?username=developersuryaa&rank_icon=github&hide_title=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=dark))
 
 ---
 
