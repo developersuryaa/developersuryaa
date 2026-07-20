@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a passionate **Web Developer** who loves building meaningful websites and contributing to the open-source community.
+I'm a **Web Developer** who loves building meaningful websites and contributing to the open-source community.
 
 ---
 
